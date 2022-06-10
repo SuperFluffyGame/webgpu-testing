@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#c2 {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+}
